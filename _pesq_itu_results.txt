@@ -1,0 +1,9 @@
+REFERENCE	 DEGRADED	 PESQMOS	 PESQMOS	 SUBJMOS	 COND	 SAMPLE_FREQ	 CRUDE_DELAY
+data3/p50mono.wav	 data3/Airpodstest1.wav	 SQValue=2.723	 2.723	 0.000	 0	 16000	-23.5920
+ data3/p50mono.wav	 data3/Airpodstest2.wav	 SQValue=2.449	 2.449	 0.000	 0	 16000	-21.1120
+ data3/p50mono.wav	 data3/Airpodstest3.wav	 SQValue=2.416	 2.416	 0.000	 0	 16000	-23.6120
+ data3/p50mono.wav	 data3/Airpodstest4.wav	 SQValue=2.777	 2.777	 0.000	 0	 16000	-21.0840
+ data3/p50mono.wav	 data3/Airpodstest5.wav	 SQValue=2.941	 2.941	 0.000	 0	 16000	-21.1120
+ data3/p50mono.wav	 data3/Airpodstest6.wav	 SQValue=2.462	 2.462	 0.000	 0	 16000	-21.1240
+ data3/p50mono.wav	 data3/Airpodstest7.wav	 SQValue=1.706	 1.706	 0.000	 0	 16000	-14.8000
+ 

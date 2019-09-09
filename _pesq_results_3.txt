@@ -1,0 +1,9 @@
+DEGRADED	 PESQMOS	 SUBJMOS	 COND	 SAMPLE_FREQ	 CRUDE_DELAY
+Airpodstest1.wav	 2.723	 0.000	 0	 16000	-23.5920
+ Airpodstest2.wav	 2.449	 0.000	 0	 16000	-21.1120
+ Airpodstest3.wav	 2.416	 0.000	 0	 16000	-23.6120
+ Airpodstest4.wav	 2.777	 0.000	 0	 16000	-21.0840
+ Airpodstest5.wav	 2.941	 0.000	 0	 16000	-21.1120
+ Airpodstest6.wav	 2.462	 0.000	 0	 16000	-21.1240
+ Airpodstest7.wav	 1.706	 0.000	 0	 16000	-14.8000
+ 
